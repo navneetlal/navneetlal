@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 Hello, I'm Navneet Lal Gupta and I am a **Full Stack Developer** working as Software Developer at [Intugine Technologies](). In my 3+ years of experience i have worked on many aspects of software development including designing, development, maintaining and leading team. My main expertise is in **NodeJS (Js/Ts) + React** but my projects are usually not restricted to that. I have good working knowledge of **.NET Stack** plus little exposure to **Angular**.
 
-I always seek to achieve a high standard in whatever work I undertake.
-
 - 🔭 I’m currently working on digitizing supply chain in India
 - 🌱 Learning about **Machine Learning**
 - 💬 Ask me about **JavaScript, TypeScript, .NET** or any below tools listed, I am happy to help.
