@@ -48,6 +48,6 @@ Hello, I'm Navneet Lal Gupta and I am a **Full Stack Developer** working as Soft
 ![Navneet's Github Stats](https://github-readme-stats.vercel.app/api?username=navneetlal&count_private=true&show_icons=true&include_all_commits=true)
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navneetlal&hide=TeX&layout=compact)
+![Top Langs](https://github-language-stats.vercel.app/api/top-langs?username=navneetlal)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=navneetlal.navneetlal)
