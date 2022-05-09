@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Navneet Lal Gupta and I am a **Full Stack Developer** working as Software Developer at [Intugine Technologies](https://www.intugine.com). In my 3+ years of experience i have worked on many aspects of software development including designing, development, maintaining and leading team. My main expertise is in **NodeJS (Js/Ts) + React** but my projects are usually not restricted to that. I have good working knowledge of **.NET Stack** plus little exposure to **Angular**.
+Hello, I'm Navneet Lal Gupta and I am a **Full Stack Developer** working as SDE III at [Intugine Technologies](https://www.intugine.com). I have worked on many aspects of software development including designing, development, maintaining and leading team. My main expertise is in **NodeJS (Js/Ts) + React** but my projects are usually not restricted to that. I have good working knowledge of **.NET Stack** plus little exposure to **Angular**.
 
 - 🔭 I’m currently working on digitizing supply chain in India
-- 🌱 Learning about **Machine Learning**
+- 🌱 Learning **rust-lang** 🦀
 - 💬 Ask me about **JavaScript, TypeScript, .NET** or any below tools listed, I am happy to help.
 - 📫 How to reach me: [in/navneetlalgupta](https://www.linkedin.com/in/navneetlalgupta/)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 
 **Languages and Tools:** 
 
