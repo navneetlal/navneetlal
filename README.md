@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Navneet Lal Gupta and I am a **Full Stack Developer** working as SDE III at [Intugine Technologies](https://www.intugine.com). I have worked on many aspects of software development including designing, development, maintaining and leading team. My main expertise is in **NodeJS (Js/Ts) + React** but my projects are usually not restricted to that. I have good working knowledge of **.NET Stack** plus little exposure to **Angular**.
+Hello, I’m **Navneet Lal Gupta**, a Full Stack Software Engineer and Tech Lead at [Ushur](https://www.ushur.ai).  My experience spans software development across various aspects including design, development, maintenance and team leadership. My main expertise lies in **NodeJS (JavaScript/TypeScript) + React + DevOps (Docker, Kubernetes, Terraform, Jenkins, Ansible)**.
 
-- 🔭 I’m currently working on digitizing supply chain in India
+- 🔭 I’m currently working on optimising and agentifying the customer experience journey (CXO) through Ushur.
 - 🌱 Learning **rust-lang** 🦀
-- 💬 Ask me about **JavaScript, TypeScript, .NET** or any below tools listed, I am happy to help.
+- 💬 Ask me about tools or solving tech software engineering problems, I am happy to help.
 - 📫 How to reach me: [in/navneetlalgupta](https://www.linkedin.com/in/navneetlalgupta/)
 - 😄 Pronouns: He/Him/His
 
@@ -31,17 +31,23 @@ Hello, I'm Navneet Lal Gupta and I am a **Full Stack Developer** working as SDE 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![Material UI](https://img.shields.io/badge/-Material_UI-black?logo=material-ui&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css&style=social)&nbsp;&nbsp;
+![Material UI](https://img.shields.io/badge/-Material_UI-black?logo=materialdesign&style=social)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=node.js&style=social)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-black?logo=redux&style=social)&nbsp;&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?logo=graphql&style=social)&nbsp;&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?logo=rabbitmq&style=social)&nbsp;&nbsp;
+![Apache Kafka](https://img.shields.io/badge/-ApacheKafka-black?logo=apachekafka&style=social)&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?logo=elasticsearch&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=Docker&style=social)&nbsp;&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=Kubernetes&style=social)&nbsp;&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-black?logo=Terraform&style=social)&nbsp;&nbsp;
+![Ansible](https://img.shields.io/badge/-Ansible-black?logo=Ansible&style=social)&nbsp;&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?logo=Jenkins&style=social)&nbsp;&nbsp;
+![Keycloak](https://img.shields.io/badge/-Keycloak-black?logo=Keycloak&style=social)&nbsp;&nbsp;
 ![Amazon AWS](https://img.shields.io/badge/-AWS-black?logo=amazon%20aws&style=social)&nbsp;&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-black?logo=microsoft%20azure&style=social)&nbsp;&nbsp;
 
